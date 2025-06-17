@@ -9,7 +9,7 @@ A Streamlit-powered web app and LSTM-based deep learning model for classifying m
 ## 🗂️ Project Structure
 
 ```
-Movie-Review-AI/
+Movie-Review-Sentiment-Analysis/
 ├── IMDB Dataset.csv          # Raw 50K IMDb reviews (download from Kaggle)
 ├── user_feedback.csv         # Logged user reviews & corrected labels
 ├── model.py                  # Training script (uses TextVectorization + LSTM)
