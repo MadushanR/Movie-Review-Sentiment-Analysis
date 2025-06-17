@@ -25,8 +25,8 @@ Movie-Review-AI/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/Movie-Review-AI.git
-cd Movie-Review-AI
+git clone https://github.com/MadushanR/Movie-Review-Sentiment-Analysis.git
+cd Movie-Review-Sentiment-Analysis
 ```
 
 ### 2. Install dependencies
@@ -116,4 +116,4 @@ streamlit run app.py
 ---
 
 Feel free to open issues or submit pull requests!  
-— _Your Name_
+— Madushan Rajendran
